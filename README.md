@@ -18,10 +18,10 @@ A unified web dashboard that integrates all wallets, cards, and accounts in one 
   ## 📄 Prompt Scripts & AI Tools Used
   - **⭐** We documented all the prompts used in the project along with their results in a dedicated doc file.
   - **⭐** The document also includes a list of AI tools we leveraged during development.
-  -
+  - [Download the document](https://github.com/Harshitha-creates/modern-financial-dashboard/blob/main/Prompts-pixel-perfect-35.docx)
   ## 📊 Presentation (PPT) on the Idea
   - **⭐** We created a detailed PowerPoint presentation explaining the idea, features, and implementation strategy of this project.
-  - 
+  - [Download the PowerPoint presentation](https://github.com/Harshitha-creates/modern-financial-dashboard/blob/main/pixel-perfect%20(1)%20(1).pptx)
 
 ## 📹 Youtube Link
 - [This is a YouTube link](https://youtu.be/m-JcaqYVTKs)
