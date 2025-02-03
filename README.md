@@ -16,12 +16,12 @@ A unified web dashboard that integrates all wallets, cards, and accounts in one 
     
 ## 📂 Additional Resources
   ## 📄 Prompt Scripts & AI Tools Used
-   **⭐** We documented all the prompts used in the project along with their results in a dedicated doc file.
-   **⭐** The document also includes a list of AI tools we leveraged during development.
-   -
+  - **⭐** We documented all the prompts used in the project along with their results in a dedicated doc file.
+  - **⭐** The document also includes a list of AI tools we leveraged during development.
+  -
   ## 📊 Presentation (PPT) on the Idea
-   **⭐** We created a detailed PowerPoint presentation explaining the idea, features, and implementation strategy of this project.
-   - 
+  - **⭐** We created a detailed PowerPoint presentation explaining the idea, features, and implementation strategy of this project.
+  - 
 
 ## 📹 Youtube Link
 - [This is a YouTube link](https://youtu.be/m-JcaqYVTKs)
